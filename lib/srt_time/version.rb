@@ -1,4 +1,4 @@
-module SrtTime
+class SrtTime
   module VERSION #:nodoc:
     MAJOR = 1
     MINOR = 0
