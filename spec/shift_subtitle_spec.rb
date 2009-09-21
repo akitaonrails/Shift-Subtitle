@@ -15,6 +15,6 @@ describe "Shift Subtitle" do
     File.readlines(input_file).each do |line|
       output << @srt_time.convert_line(line)
     end
-    output.should == output_static
+    output_static.should == output
   end
 end

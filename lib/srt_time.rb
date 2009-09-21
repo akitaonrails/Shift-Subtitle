@@ -15,7 +15,9 @@ class SrtTime
       pad = ($1.size - 3) * (-1)
       time[0...pad]
     elsif $1.size < 3
-      time.gsub(/,(\d*)$/, ",#{"%03d" % $1}")
+      time.gsub(/,\d*$/, ",#{$1 << ("0" * (3 - $1.size))}")
+    else
+      time
     end
   end
   

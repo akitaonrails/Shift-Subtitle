@@ -36,7 +36,7 @@ options.merge!(:output_file => ARGV.last)
 srt_time = SrtTime.new(options)
 File.open(options[:output_file], "w+") do |output|
   File.readlines(options[:input_file]).each do |line|
-    output.puts srt_time.convert_line(line)
+    output.write srt_time.convert_line(line)
   end
 end
 puts "Done!"
