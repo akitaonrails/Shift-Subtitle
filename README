@@ -1,0 +1,27 @@
+Helps shift time in a subtitle (SRT) file, so you can shift left
+or right by seconds and milliseconds
+
+Install:
+
+  sudo gem install akitaonrails-shift_subtitle
+
+Usage:
+
+	shift_subtitle --help
+  shift_subtitle --operation add --time 02,110 input_file output_file
+
+Obs:
+
+  The time format as to be "99,888" where "99" stands for the amount
+  of seconds and "888" the amount of milliseconds, so 2 seconds and
+  1 millisecond becomes "02,001".
+
+	This version only deals with subtitle files in the SRT format.
+
+Example:
+
+  bin/shift_subtitle -o add -t 02,000 fixtures/input.srt output.srt
+
+Credits:
+
+  Fabio Akita <fabioakita@gmail.com> http://www.akitaonrails.com

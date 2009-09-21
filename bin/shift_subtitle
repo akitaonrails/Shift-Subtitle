@@ -1,0 +1,46 @@
+#! /usr/bin/env ruby
+require 'optparse'
+require 'lib/srt_time'
+
+options = {}
+optparse = OptionParser.new do |opts|
+  # Set a banner, displayed at the top
+  # of the help screen.
+  opts.banner = "Shifts time from an SRT subtitle file.\nAllows to add or subtract seconds and milliseconds from the entire file.\nUsage: shift_subtitle [options] input_file output_file"
+
+  options[:operation] = "+"
+  opts.on( '-o', '--operation (add|sub)', 'Choose (add) to add time or (sub) to subtract time' ) do |op|
+    options[:operation] = op == 'add' ? "+" : "-"
+  end
+
+  options[:amount] = "00,000"
+  opts.on( '-t', '--time 99,999', 'Amount of time to operate, this has to be in the format 99,999 (sec,millisec)' ) do |time|
+    options[:amount] = SrtTime.parse(time)
+    raise ArgumentError.new("The time format has to be 99,999") unless options[:amount]
+  end
+
+  # This displays the help screen, all programs are
+  # assumed to have this option.
+  opts.on( '-h', '--help', 'Display this screen' ) do
+    puts opts
+    exit
+  end
+  
+  opts.parse!
+end
+
+# get the input and output files
+options.merge!(:input_file => ARGV.first)
+options.merge!(:output_file => ARGV.last)
+
+File.open(options[:output_file], "w+") do |output|
+  File.readlines(options[:input_file]).each do |line|
+    if line =~ SrtTime::TIME_FORMAT_REGEX
+      start_time  = SrtTime.parse($1).send(options[:operation].to_sym, options[:amount])
+      finish_time = SrtTime.parse($2).send(options[:operation].to_sym, options[:amount])
+      line = SrtTime::TIME_FORMAT % [start_time.to_s, finish_time.to_s]
+    end
+    output.puts line
+  end
+end
+puts "Done!"
