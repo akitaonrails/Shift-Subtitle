@@ -8,14 +8,14 @@ class SrtTime
   
   def convert_time(time)
     time  = Time.parse(time).send(operation, amount)
-    time  = ((time.strftime("%H:%M:%S") + ',%s') % time.usec)
+    time  = ((time.strftime("%H:%M:%S") + ',%s') % (time.usec.to_s.rjust(6, '0')))
     
     time =~ /,(\d*)$/
     if $1.size > 3
       pad = ($1.size - 3) * (-1)
       time[0...pad]
     elsif $1.size < 3
-      time.gsub(/,\d*$/, ",#{$1 << ("0" * (3 - $1.size))}")
+      time.gsub(/,\d*$/, $1.rjust(3, '0'))
     else
       time
     end

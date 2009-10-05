@@ -17,7 +17,7 @@ Sincronia: Gugasms
 Revisão: Gugasms e Sheilatkhs
 
 5
-00:03:16,740 --> 00:03:20,325
+00:03:16,074 --> 00:03:20,325
 Tchau...
 Tchau!
 
@@ -63,7 +63,7 @@ Sosuke, vamos logo!
 Lisa, peguei um peixe-dourado.
 
 16
-00:09:52,630 --> 00:09:56,916
+00:09:52,063 --> 00:09:56,916
 Que vento esquisito.
 Sosuke, vou ligar o motor.
 
@@ -113,7 +113,7 @@ Não é pesticida. É água pura
 do mar. Me mantém úmido.
 
 27
-00:11:57,377 --> 00:12:00,990
+00:11:57,377 --> 00:12:00,099
 Só não quero que
 seja pesticida.
 
@@ -166,7 +166,7 @@ de chegarmos lá.
 Ela pode estar com fome.
 
 39
-00:12:49,400 --> 00:12:51,410
+00:12:49,004 --> 00:12:51,041
 Quer um pouco?
 
 40
@@ -174,7 +174,7 @@ Quer um pouco?
 Meu machucado sumiu.
 
 41
-00:12:57,247 --> 00:13:00,700
+00:12:57,247 --> 00:13:00,007
 Vou chamá-la de Ponyo.
 
 42
@@ -191,7 +191,7 @@ Ela fez meu corte sarar.
 Quer presunto?
 
 45
-00:13:34,560 --> 00:13:38,272
+00:13:34,056 --> 00:13:38,272
 - Ponyo gosta de presunto!
 - Assim como eu.
 
@@ -227,7 +227,7 @@ Vou deixá-lo aqui.
 - Até mais.
 
 53
-00:15:01,577 --> 00:15:07,450
+00:15:01,577 --> 00:15:07,045
 - Bom dia, desculpe o atraso.
 - Pegue a cadeira da Noriko.
 
@@ -250,7 +250,7 @@ Sra. Toki, não posso
 falar agora.
 
 58
-00:15:37,933 --> 00:15:41,400
+00:15:37,933 --> 00:15:41,004
 Talvez a professora
 fique brava.
 
@@ -264,7 +264,7 @@ Espere por mim aqui.
 Volto logo.
 
 61
-00:15:53,230 --> 00:15:55,890
+00:15:53,023 --> 00:15:55,890
 E se aparecer algum gato?
 
 62
@@ -281,7 +281,7 @@ Está tudo certo.
 Ela ficará bem.
 
 65
-00:16:24,171 --> 00:16:27,960
+00:16:24,171 --> 00:16:27,096
 Obrigada.
 Adeus.
 
@@ -295,7 +295,7 @@ Bom dia, professora.
 - Como está?
 
 68
-00:16:37,760 --> 00:16:39,472
+00:16:37,076 --> 00:16:39,472
 - Sosuke!
 - Kumiko...
 
@@ -305,19 +305,19 @@ Gostou do vestido?
 Minha mãe comprou para mim.
 
 70
-00:16:44,520 --> 00:16:45,979
+00:16:44,052 --> 00:16:45,979
 Sosuke, vamos brincar.
 
 71
-00:16:46,140 --> 00:16:48,106
+00:16:46,014 --> 00:16:48,106
 Agora não, estou ocupado.
 
 72
-00:16:48,141 --> 00:16:50,800
+00:16:48,141 --> 00:16:50,008
 Por quê?
 
 73
-00:16:50,900 --> 00:16:53,587
+00:16:50,009 --> 00:16:53,587
 - Disse que estou ocupado.
 - Você é chato.
 
@@ -330,7 +330,7 @@ Por quê?
 Ponyo!
 
 76
-00:17:25,390 --> 00:17:26,768
+00:17:25,039 --> 00:17:26,768
 Sosuke!
 
 77
@@ -349,7 +349,7 @@ As árvores não são da escola.
 São da Casa do Girassol.
 
 80
-00:17:36,170 --> 00:17:38,640
+00:17:36,170 --> 00:17:38,064
 Deixe-me ver.
 
 81
@@ -362,12 +362,12 @@ Não é um peixe,
 é a Ponyo.
 
 83
-00:17:42,675 --> 00:17:45,200
+00:17:42,675 --> 00:17:45,002
 Ponyo?
 Eu quero ver.
 
 84
-00:17:45,370 --> 00:17:47,526
+00:17:45,037 --> 00:17:47,526
 Promete não contar a ninguém?
 
 85
@@ -384,12 +384,12 @@ Ela não é fofinha?
 é muito mais bonito.
 
 88
-00:18:25,113 --> 00:18:30,510
+00:18:25,113 --> 00:18:30,051
 É culpa da Kumiko.
 Ela foi malvada com você.
 
 89
-00:18:33,240 --> 00:18:35,793
+00:18:33,024 --> 00:18:35,793
 Vou pegar mais água.
 
 90
@@ -397,11 +397,11 @@ Vou pegar mais água.
 Ponyo!
 
 91
-00:19:05,596 --> 00:19:08,770
+00:19:05,596 --> 00:19:08,077
 Você me assustou.
 
 92
-00:19:12,490 --> 00:19:17,811
+00:19:12,049 --> 00:19:17,811
 Que estranho.
 Ouvi a voz de Sosuke.
 
@@ -419,7 +419,7 @@ Devo estar ouvindo coisas.
 Sra. Yoshie, estou aqui.
 
 96
-00:19:29,320 --> 00:19:32,638
+00:19:29,032 --> 00:19:32,638
 Sabia que ouvi sua voz.
 
 97
@@ -445,11 +445,11 @@ Adivinhem a cor.
 Isso mesmo.
 
 102
-00:19:48,983 --> 00:19:51,630
+00:19:48,983 --> 00:19:51,063
 Como sabiam?
 
 103
-00:19:51,980 --> 00:19:53,650
+00:19:51,098 --> 00:19:53,650
 - Mostre!
 - Mostre-nos!
 
@@ -483,7 +483,7 @@ Poderíamos correr
 por aí como você.
 
 110
-00:20:21,190 --> 00:20:23,455
+00:20:21,019 --> 00:20:23,455
 Tenho que perguntar à Ponyo.
 
 111
@@ -532,7 +532,7 @@ A tsunami...
 Sosuke!
 
 121
-00:21:19,630 --> 00:21:21,933
+00:21:19,063 --> 00:21:21,933
 Sosuke!
 
 122
@@ -557,7 +557,7 @@ Sosuke.
 Sosuke.
 
 127
-00:21:57,830 --> 00:21:58,983
+00:21:57,083 --> 00:21:58,983
 Ponyo!
 
 128
@@ -582,11 +582,11 @@ Também amo você.
 Ponyo ama Sosuke!
 
 133
-00:22:58,856 --> 00:23:01,360
+00:22:58,856 --> 00:23:01,036
 Ponyo!
 
 134
-00:23:01,710 --> 00:23:04,392
+00:23:01,071 --> 00:23:04,392
 Ponyo!
 Ponyo!
 
@@ -611,7 +611,7 @@ Ponyo...
 Sosuke, talvez seja destino.
 
 140
-00:24:22,713 --> 00:24:25,880
+00:24:22,713 --> 00:24:25,088
 Não pode ser evitado.
 
 141
@@ -637,7 +637,7 @@ Me dá um pouquinho.
 Vamos, vai pingar.
 
 146
-00:24:42,770 --> 00:24:44,123
+00:24:42,077 --> 00:24:44,123
 Até que não é ruim!
 
 147
@@ -659,7 +659,7 @@ Não vá mais para o mar hoje.
 Sosuke, venha para dentro.
 
 151
-00:25:56,679 --> 00:26:01,950
+00:25:56,679 --> 00:26:01,095
 Se eu deixar o balde aqui,
 Ponyo nos encontrará?
 
@@ -700,16 +700,16 @@ Koichi?
 O quê?
 
 160
-00:26:42,599 --> 00:26:45,500
+00:26:42,599 --> 00:26:45,005
 Não pode recusar?
 
 161
-00:26:45,400 --> 00:26:48,543
+00:26:45,040 --> 00:26:48,543
 Vai abandonar sua esposa
 e seu filho no rochedo?
 
 162
-00:26:49,155 --> 00:26:52,520
+00:26:49,155 --> 00:26:52,052
 Desisto!
 
 163
@@ -717,7 +717,7 @@ Desisto!
 Vamos comer fora, Sosuke!
 
 164
-00:26:59,380 --> 00:27:01,277
+00:26:59,038 --> 00:27:01,277
 Quero comer em casa.
 
 165
@@ -801,7 +801,7 @@ esteja chorando.
 Está bem, vamos nos animar!
 
 184
-00:29:47,520 --> 00:29:50,211
+00:29:47,052 --> 00:29:50,211
 Eu estou feliz!
 
 185
@@ -815,7 +815,7 @@ Tenho certeza de que
 Ponyo também está bem.
 
 187
-00:29:59,776 --> 00:30:04,450
+00:29:59,776 --> 00:30:04,045
 Vamos comer. Comeremos
 a porção do Koichi também.
 
@@ -829,12 +829,12 @@ Tê-la trazido comigo
 foi um erro.
 
 190
-00:30:20,351 --> 00:30:24,190
+00:30:20,351 --> 00:30:24,019
 Quantas vezes tenho que
 avisar sobre os humanos?
 
 191
-00:30:24,540 --> 00:30:26,318
+00:30:24,054 --> 00:30:26,318
 Sobre sua sujeira.
 
 192
@@ -964,7 +964,7 @@ Fique quieto, sangue do mal!
 Reverta, reverta!
 
 221
-00:32:41,210 --> 00:32:44,945
+00:32:41,021 --> 00:32:44,945
 Assim como sua mãe...
 tão forte.
 
@@ -974,7 +974,7 @@ Deveria ser pura e
 inocente para sempre.
 
 223
-00:33:14,910 --> 00:33:17,205
+00:33:14,091 --> 00:33:17,205
 Não conseguirei segurá-la
 por muito tempo.
 
@@ -992,12 +992,12 @@ forte para vocês!
 Saiam de perto!
 
 227
-00:33:34,513 --> 00:33:40,540
+00:33:34,513 --> 00:33:40,054
 Os escudos de caranguejo
 estão se rompendo.
 
 228
-00:33:40,890 --> 00:33:44,776
+00:33:40,089 --> 00:33:44,776
 Devo ter rompido o
 balanço da natureza.
 
@@ -1019,7 +1019,7 @@ Sem vazamentos aqui.
 Esta porta está frouxa.
 
 233
-00:34:11,310 --> 00:34:13,595
+00:34:11,031 --> 00:34:13,595
 Consertá-la-ei depois.
 
 234
@@ -1032,7 +1032,7 @@ entrar aqui...
 Excelente!
 
 236
-00:34:47,952 --> 00:34:52,660
+00:34:47,952 --> 00:34:52,066
 Sinto o poder do oceano
 no meu DNA.
 
@@ -1068,7 +1068,7 @@ Vou até Sosuke.
 Uma tromba d'água?
 
 244
-00:39:24,760 --> 00:39:27,429
+00:39:24,076 --> 00:39:27,429
 Vamos achar uma
 brecha entre as ondas!
 
@@ -1082,7 +1082,7 @@ Capitão, o rádio e o radar
 estão fora do ar.
 
 247
-00:39:42,600 --> 00:39:45,769
+00:39:42,060 --> 00:39:45,769
 É uma menina?
 Da idade do Sosuke!
 
@@ -1115,7 +1115,7 @@ Sosuke, desculpe.
 A energia acabou.
 
 254
-00:40:59,585 --> 00:41:03,840
+00:40:59,585 --> 00:41:03,084
 A porta não abriu, né?
 Foi tudo bem na escola?
 
@@ -1143,7 +1143,7 @@ durante a noite.
 É melhor ir enquanto pode.
 
 260
-00:41:17,573 --> 00:41:20,910
+00:41:17,573 --> 00:41:20,091
 Sosuke, espere.
 
 261
@@ -1168,11 +1168,11 @@ O que é isso?
 Um para você, Noriko.
 
 266
-00:41:48,128 --> 00:41:50,280
+00:41:48,128 --> 00:41:50,028
 Obrigada.
 
 267
-00:41:50,610 --> 00:41:52,326
+00:41:50,061 --> 00:41:52,326
 Não consigo ver nada.
 
 268
@@ -1180,7 +1180,7 @@ Não consigo ver nada.
 Um absurdo essa falta de luz!
 
 269
-00:41:55,270 --> 00:41:58,357
+00:41:55,027 --> 00:41:58,357
 Não quero dormir aqui.
 
 270
@@ -1204,7 +1204,7 @@ Os navios devem
 ter total cuidado.
 
 274
-00:42:18,360 --> 00:42:20,234
+00:42:18,036 --> 00:42:20,234
 TV imprestável.
 
 275
@@ -1247,7 +1247,7 @@ O que é isso?
 O navio do pai do Sosuke.
 
 284
-00:43:02,560 --> 00:43:04,333
+00:43:02,056 --> 00:43:04,333
 Parece um gafanhoto.
 
 285
@@ -1294,16 +1294,16 @@ sei que Koichi está lá.
 Lisa, é um peixe.
 
 295
-00:44:18,659 --> 00:44:21,940
+00:44:18,659 --> 00:44:21,094
 Coloque o cinto de segurança.
 
 296
-00:44:30,633 --> 00:44:33,180
+00:44:30,633 --> 00:44:33,018
 Sra. Lisa, não pode
 atravessar.
 
 297
-00:44:33,530 --> 00:44:35,884
+00:44:33,053 --> 00:44:35,884
 As pessoas foram
 para um abrigo.
 
@@ -1339,17 +1339,17 @@ Olhe aquela onda!
 Aí vem ela!
 
 305
-00:45:06,965 --> 00:45:10,220
+00:45:06,965 --> 00:45:10,022
 Sra. Lisa!
 Fuja! Fuja!
 
 306
-00:45:49,770 --> 00:45:53,803
+00:45:49,077 --> 00:45:53,803
 - Tem peixes nos seguindo!
 - Sosuke, coloque o cinto.
 
 307
-00:46:06,310 --> 00:46:08,251
+00:46:06,031 --> 00:46:08,251
 Segure firme!
 
 308
@@ -1366,7 +1366,7 @@ Estava nas costas do peixe.
 Onde?
 
 311
-00:47:31,660 --> 00:47:35,495
+00:47:31,066 --> 00:47:35,495
 A maré está ficando mais alta.
 Onde você a viu?
 
@@ -1383,7 +1383,7 @@ Peixe?
 Vamos, Sosuke.
 
 315
-00:48:01,416 --> 00:48:05,900
+00:48:01,416 --> 00:48:05,009
 Aguente firme, Sosuke.
 Estamos quase em casa.
 
@@ -1431,7 +1431,7 @@ Não importa o quão
 estranho tudo esteja...
 
 326
-00:50:45,311 --> 00:50:48,720
+00:50:45,311 --> 00:50:48,072
 temos que ficar calmos.
 
 327
@@ -1468,15 +1468,15 @@ Te peguei.
 Vamos secá-la.
 
 335
-00:51:46,370 --> 00:51:48,842
+00:51:46,037 --> 00:51:48,842
 Seu cabelo ruivo é tão lindo!
 
 336
-00:51:51,280 --> 00:51:53,414
+00:51:51,028 --> 00:51:53,414
 Suas roupas estão secas...
 
 337
-00:51:53,449 --> 00:51:58,530
+00:51:53,449 --> 00:51:58,053
 Ponyo era um peixe.
 Estar molhada é normal.
 
@@ -1513,7 +1513,7 @@ Temos um reservatório
 lá fora.
 
 345
-00:52:26,430 --> 00:52:28,256
+00:52:26,043 --> 00:52:28,256
 E o fogo?
 
 346
@@ -1535,7 +1535,7 @@ Está bem.
 Aqui, Ponyo.
 
 350
-00:52:48,500 --> 00:52:50,340
+00:52:48,050 --> 00:52:50,340
 Sente-se, assim.
 
 351
@@ -1547,19 +1547,19 @@ Coloque as coisas na mesa.
 Precisa das mãos.
 
 353
-00:52:58,990 --> 00:53:01,600
+00:52:58,990 --> 00:53:01,060
 Eu tenho o pé.
 
 354
-00:53:03,122 --> 00:53:05,740
+00:53:03,122 --> 00:53:05,074
 Nossa, que incrível.
 
 355
-00:53:07,706 --> 00:53:10,340
+00:53:07,706 --> 00:53:10,034
 O que estão fazendo?
 
 356
-00:53:10,690 --> 00:53:13,167
+00:53:10,069 --> 00:53:13,167
 Os pés da Ponyo são
 como mãos.
 
@@ -1606,12 +1606,12 @@ Precisamos de luz
 para falar com Koichi.
 
 367
-00:54:53,552 --> 00:54:58,900
+00:54:53,552 --> 00:54:58,009
 - Koichi é meu pai.
 - Ele é um mágico do mal?
 
 368
-00:54:58,440 --> 00:55:01,836
+00:54:58,044 --> 00:55:01,836
 Não, é o capitão
 do Koganei Maru.
 
@@ -1629,7 +1629,7 @@ Ele me mantém prisioneiro.
 Eu fugi.
 
 372
-00:55:12,900 --> 00:55:14,324
+00:55:12,009 --> 00:55:14,324
 E sua mãe?
 
 373
@@ -1670,20 +1670,20 @@ Ali está entupido.
 Está tão claro!
 
 382
-00:56:13,660 --> 00:56:15,294
+00:56:13,066 --> 00:56:15,294
 Ponyo, você é incrível!
 
 383
-00:56:32,721 --> 00:56:35,280
+00:56:32,721 --> 00:56:35,028
 Antena!
 
 384
-00:56:35,630 --> 00:56:38,266
+00:56:35,063 --> 00:56:38,266
 Todos os navios
 afundaram, Lisa?
 
 385
-00:56:39,150 --> 00:56:41,465
+00:56:39,015 --> 00:56:41,465
 Não tem nenhuma luz.
 
 386
@@ -1699,7 +1699,7 @@ O que houve?
 Até o rádio está sem sinal.
 
 389
-00:57:07,840 --> 00:57:09,640
+00:57:07,084 --> 00:57:09,640
 Aqui é JA4-LL.
 
 390
@@ -1741,7 +1741,7 @@ Demora 3 minutos.
 Feche os olhos.
 
 399
-00:58:12,208 --> 00:58:15,110
+00:58:12,208 --> 00:58:15,011
 Ainda não.
 
 400
@@ -1781,12 +1781,12 @@ Ponyo veio de muito longe?
 É, deve ser.
 
 409
-00:59:27,900 --> 00:59:30,497
+00:59:27,090 --> 00:59:30,497
 Veja, Sosuke.
 A tempestade acabou.
 
 410
-00:59:31,800 --> 00:59:34,918
+00:59:31,080 --> 00:59:34,918
 - É porque Ponyo dormiu?
 - Olhe lá!
 
@@ -1801,11 +1801,11 @@ Será a Sra. Yoshie
 e as amigas?
 
 413
-00:59:53,572 --> 00:59:55,980
+00:59:53,572 --> 00:59:55,098
 Sumiu.
 
 414
-00:59:55,990 --> 00:59:57,808
+00:59:55,099 --> 00:59:57,808
 É a estrada para a montanha.
 
 415
@@ -1813,7 +1813,7 @@ Sumiu.
 Sosuke, fique com a Ponyo.
 
 416
-01:00:13,703 --> 01:00:18,930
+01:00:13,703 --> 01:00:18,093
 Acho que dá para ir pela
 estrada da montanha.
 
@@ -1830,7 +1830,7 @@ Vou junto.
 Fique com a Ponyo.
 
 420
-01:00:28,180 --> 01:00:31,528
+01:00:28,018 --> 01:00:31,528
 Eu quero ir, é só levar
 a Ponyo junto.
 
@@ -1848,11 +1848,11 @@ um farol para a tempestade.
 Todos lá fora dependem de nós.
 
 424
-01:00:43,908 --> 01:00:46,950
+01:00:43,908 --> 01:00:46,095
 Alguém deve ficar aqui.
 
 425
-01:00:46,759 --> 01:00:51,520
+01:00:46,759 --> 01:00:51,052
 Muitas coisas de que não
 entendo estão acontecendo.
 
@@ -1920,12 +1920,12 @@ A água do mar
 cobriu a montanha!
 
 440
-01:03:02,588 --> 01:03:07,790
+01:03:02,588 --> 01:03:07,079
 É um cemitério dos barcos.
 O que está havendo?
 
 441
-01:03:12,380 --> 01:03:13,571
+01:03:12,038 --> 01:03:13,571
 Estamos sem energia!
 
 442
@@ -1934,11 +1934,11 @@ Dar marcha-ré!
 Puxar a âncora.
 
 443
-01:03:31,890 --> 01:03:33,549
+01:03:31,089 --> 01:03:33,549
 Tem algo vindo!
 
 444
-01:04:01,197 --> 01:04:03,970
+01:04:01,197 --> 01:04:03,097
 Uma deusa do mar?
 
 445
@@ -2057,7 +2057,7 @@ A gravidade do planeta...
 Silêncio.
 
 470
-01:08:01,534 --> 01:08:06,870
+01:08:01,534 --> 01:08:06,087
 Sosuke. É esse o nome dele?
 
 471
@@ -2117,7 +2117,7 @@ Bom dia, Ponyo.
 Bom dia, Sosuke.
 
 484
-01:09:21,920 --> 01:09:24,145
+01:09:21,092 --> 01:09:24,145
 Quase inundou.
 
 485
@@ -2131,7 +2131,7 @@ Queria que
 tivéssemos um barco.
 
 487
-01:09:57,500 --> 01:09:59,623
+01:09:57,050 --> 01:09:59,623
 Temos um.
 
 488
@@ -2147,7 +2147,7 @@ Cabemos sim.
 Incrível!
 
 491
-01:10:24,168 --> 01:10:26,770
+01:10:24,168 --> 01:10:26,077
 Até a vela ficou grande.
 
 492
@@ -2213,7 +2213,7 @@ Está quente?
 Quente!
 
 506
-01:12:21,873 --> 01:12:24,360
+01:12:21,873 --> 01:12:24,036
 Está quente.
 
 507
@@ -2234,11 +2234,11 @@ Muito quente.
 Incrível!
 
 511
-01:12:56,286 --> 01:12:59,230
+01:12:56,286 --> 01:12:59,023
 Está tudo em ordem, Sosuke!
 
 512
-01:12:59,580 --> 01:13:00,958
+01:12:59,058 --> 01:13:00,958
 Isso é ótimo.
 
 513
@@ -2271,11 +2271,11 @@ Tem um caminho.
 Foi a estrada que Lisa pegou.
 
 520
-01:13:57,107 --> 01:13:59,700
+01:13:57,107 --> 01:13:59,007
 Não a vejo.
 
 521
-01:13:59,310 --> 01:14:03,248
+01:13:59,031 --> 01:14:03,248
 Você verá.
 Ela me prometeu.
 
@@ -2285,11 +2285,11 @@ Peixes antigos...
 da época Devoniana!
 
 523
-01:14:10,853 --> 01:14:13,120
+01:14:10,853 --> 01:14:13,012
 Aquele é o Bothriolepis.
 
 524
-01:14:18,370 --> 01:14:19,679
+01:14:18,037 --> 01:14:19,679
 Aquele é...
 
 525
@@ -2323,7 +2323,7 @@ Bem legal, né?
 Agora, Ponyo.
 
 532
-01:15:13,899 --> 01:15:16,710
+01:15:13,899 --> 01:15:16,071
 Olá.
 
 533
@@ -2390,7 +2390,7 @@ Obrigada.
 Bom apetite.
 
 548
-01:16:55,960 --> 01:16:57,245
+01:16:55,096 --> 01:16:57,245
 Está deliciosa!
 
 549
@@ -2402,7 +2402,7 @@ A Lisa que fez.
 É para o bebê.
 
 551
-01:17:02,558 --> 01:17:07,980
+01:17:02,558 --> 01:17:07,098
 Sinto muito, o bebê
 ainda não pode tomar.
 
@@ -2416,7 +2416,7 @@ leite para ele.
 Lisa também me deu leite.
 
 554
-01:17:16,330 --> 01:17:20,222
+01:17:16,033 --> 01:17:20,222
 Ponyo, posso beber essa sopa?
 
 555
@@ -2476,7 +2476,7 @@ Leite!
 Ela comeu todo o presunto.
 
 568
-01:18:27,180 --> 01:18:29,956
+01:18:27,018 --> 01:18:29,956
 Obrigada. Com certeza
 terei muito leite.
 
@@ -2545,7 +2545,7 @@ Mandaremos um barco
 para lá depois.
 
 583
-01:20:49,685 --> 01:20:53,590
+01:20:49,685 --> 01:20:53,059
 Ponyo, precisamos
 trocar a vela.
 
@@ -2642,7 +2642,7 @@ Vamos procurar a Lisa.
 Olhe é uma baleia!
 
 605
-01:26:43,950 --> 01:26:48,315
+01:26:43,095 --> 01:26:48,315
 - Meus joelhos não doem mais!
 - Com o que nos preocupamos?
 
@@ -2666,7 +2666,7 @@ Está bem, vamos lá.
 - Vou chegar primeiro.
 
 610
-01:27:14,360 --> 01:27:16,660
+01:27:14,036 --> 01:27:16,066
 A vencedora!
 
 611
@@ -2693,7 +2693,7 @@ estão vindo para cá.
 - Estou tão feliz!
 
 616
-01:27:32,100 --> 01:27:33,622
+01:27:32,001 --> 01:27:33,622
 Quietas!
 
 617
@@ -2721,12 +2721,12 @@ se ela não acordar.
 - Cadê a Lisa?
 
 622
-01:28:07,290 --> 01:28:12,302
+01:28:07,029 --> 01:28:12,302
 Ela está falando
 com a mãe da Ponyo.
 
 623
-01:28:19,955 --> 01:28:25,900
+01:28:19,955 --> 01:28:25,009
 - Espero que esteja bem.
 - Do que estão falando?
 
@@ -2759,7 +2759,7 @@ Ele precisa da torcida.
 Ponyo, é um túnel.
 
 630
-01:29:35,617 --> 01:29:38,440
+01:29:35,617 --> 01:29:38,044
 Já passei por aqui.
 
 631
@@ -2811,11 +2811,11 @@ Venham comigo.
 Você e Ponyo.
 
 642
-01:31:44,655 --> 01:31:48,290
+01:31:44,655 --> 01:31:48,029
 Não vamos acordá-la.
 
 643
-01:31:48,640 --> 01:31:49,950
+01:31:48,064 --> 01:31:49,950
 Sosuke!
 
 644
@@ -2879,19 +2879,19 @@ Ponyo!
 Corra, Sosuke!
 
 658
-01:32:39,905 --> 01:32:42,560
+01:32:39,905 --> 01:32:42,056
 Vocês não entenderam!
 
 659
-01:32:47,200 --> 01:32:49,400
+01:32:47,002 --> 01:32:49,040
 Você consegue!
 
 660
-01:32:50,900 --> 01:32:53,200
+01:32:50,900 --> 01:32:53,020
 Pule!
 
 661
-01:33:32,200 --> 01:33:33,920
+01:33:32,020 --> 01:33:33,920
 E agora?
 
 662
@@ -2936,7 +2936,7 @@ deve ser amada...
 por ser quem ela é de verdade.
 
 671
-01:35:16,900 --> 01:35:21,640
+01:35:16,900 --> 01:35:21,064
 Você sabia que
 ela era um peixe?
 
@@ -2963,7 +2963,7 @@ Pode aceitá-la como ela é?
 Sempre amarei Ponyo...
 
 677
-01:35:41,240 --> 01:35:44,976
+01:35:41,024 --> 01:35:44,976
 sendo peixe, humana
 ou os dois.
 
@@ -3057,7 +3057,7 @@ Espero que me perdoe...
 Posso?
 
 698
-01:38:33,300 --> 01:38:35,402
+01:38:33,003 --> 01:38:35,402
 Cuide bem dela.
 
 699
@@ -3130,7 +3130,7 @@ Masque, masque!
 Beijo e abraço!
 
 714
-01:40:11,270 --> 01:40:16,576
+01:40:11,027 --> 01:40:16,576
 Adoro aquela menina
 de cabelo vermelho
 
