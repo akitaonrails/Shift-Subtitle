@@ -30,13 +30,17 @@ optparse = OptionParser.new do |opts|
 end
 
 # get the input and output files
-options.merge!(:input_file => ARGV.first)
-options.merge!(:output_file => ARGV.last)
+if ARGV.size > 1
+  options.merge!(:input_file => ARGV.first)
+  options.merge!(:output_file => ARGV.last)
 
-srt_time = SrtTime.new(options)
-File.open(options[:output_file], "w+") do |output|
-  File.readlines(options[:input_file]).each do |line|
-    output.write srt_time.convert_line(line)
+  srt_time = SrtTime.new(options)
+  File.open(options[:output_file], "w+") do |output|
+    File.readlines(options[:input_file]).each do |line|
+      output.write srt_time.convert_line(line)
+    end
   end
+  puts "Done!"
+else
+  puts "no arguments passed, try -h"
 end
-puts "Done!"
